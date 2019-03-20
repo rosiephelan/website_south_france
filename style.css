@@ -22,10 +22,14 @@ body, html {
 }
 
 body, .main-header {
-  background-image: url("img/just-waves.png");
+  background-image: url("images/just-waves.png");
   height: auto;
   background-position: center;
   background-repeat: repeat;
   background-size: auto;
   background-color: #494e58;
+}
+
+#topnav {
+  
 }
